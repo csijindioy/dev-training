@@ -87,18 +87,28 @@ class Motocicleta():
     
     def consultar_combustible(self):
         # Imprimir reporte combustible disponible
-        print(f"\n*** Reporte del depósito de motocicleta marca {self.marca} modelo {self.modelo} ***\n")
+        print(f"\n*** Reporte de depósito de {self.marca} {self.modelo} ***\n")
         print(f"Capacidad total de combustible: {self.capacidad_total_combustible} litros.")
         print(f"Combustible disponible: {self.combustible_litros}  litros.")
         print(f"Combustible faltante: {self.capacidad_total_combustible - self.combustible_litros} litros.\n")
-        print(f"*** Fin reporte del depósito de motocicleta marca {self.marca} modelo {self.modelo} ***\n")
+        print(f"*** Fin reporte de depósito de {self.marca} {self.modelo} ***\n")
     
-    def tanquear(self, litros):
-        pass
+    def tanquear(self):
+        while True:
+            self.litros_repostaje = float(input("Cuantos litros desea respostar?:\n"))
+
+            if(self.litros_repostaje + self.combustible_litros > self.capacidad_total_combustible):
+                print(f"Sólo puede repostar {self.capacidad_total_combustible - self.combustible_litros} litros.\n")
+            else:
+                self.combustible_litros += self.litros_repostaje
+                print(f"Se repostó exitosamente {self.litros_repostaje} litros de combustible.")
+                print(f"Total combustible en tanque: {self.combustible_litros} litros.")
+                break
 
 mi_primera_moto = Motocicleta("Negro", "QWA04F", 10, 2, "AKT", 2023, "SEP 2022", "180 Kms/h", "98 Kgs", 13)
 mi_primera_moto.precio = "7'000.000,00 COP"
 
+# Ejercicio 8
 moto_imaginaria = Motocicleta(
     capacidad_total_combustible=30,
     matricula="WER87Y",
@@ -112,22 +122,25 @@ moto_imaginaria = Motocicleta(
     marca="Honda"
     )
 
-print("*** Mi primera moto ***\n")
+# Ejercicio 9
+#print("*** Mi primera moto ***\n")
 #mi_primera_moto.detener()
 #mi_primera_moto.arrancar()
 #mi_primera_moto.arrancar()
 #mi_primera_moto.detener()
 #mi_primera_moto.consultar_precio()
 mi_primera_moto.consultar_combustible()
-
+mi_primera_moto.tanquear()
+mi_primera_moto.consultar_combustible()
 print()
 
-print("*** Moto imaginaria ***\n")
+#print("*** Moto imaginaria ***\n")
 #moto_imaginaria.detener()
 #moto_imaginaria.arrancar()
 #moto_imaginaria.arrancar()
 #moto_imaginaria.detener()
-moto_imaginaria.consultar_precio()
+#moto_imaginaria.consultar_precio()
 moto_imaginaria.consultar_combustible()
-
+moto_imaginaria.tanquear()
+moto_imaginaria.consultar_combustible()
 #new test comment
