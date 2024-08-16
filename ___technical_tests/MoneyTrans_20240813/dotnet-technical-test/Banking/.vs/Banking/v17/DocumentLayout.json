@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50BC505-6E8B-41B6-ADCB-31213C4EB1B4}|BankingUnitTest\\BankingUnitTest.csproj|D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\bankingunittest\\bankingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50BC505-6E8B-41B6-ADCB-31213C4EB1B4}|BankingUnitTest\\BankingUnitTest.csproj|solutionrelative:bankingunittest\\bankingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29302751-8347-46EE-BD80-F164D550D4CE}|Banking\\Banking.csproj|d:\\dev\\projects\\dotnet-technical-test\\banking\\banking\\interfaces\\ibanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29302751-8347-46EE-BD80-F164D550D4CE}|Banking\\Banking.csproj|solutionrelative:banking\\interfaces\\ibanking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29302751-8347-46EE-BD80-F164D550D4CE}|Banking\\Banking.csproj|d:\\dev\\projects\\dotnet-technical-test\\banking\\banking\\bankingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29302751-8347-46EE-BD80-F164D550D4CE}|Banking\\Banking.csproj|solutionrelative:banking\\bankingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankingSystem.cs",
+              "DocumentMoniker": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\Banking\\BankingSystem.cs",
+              "RelativeDocumentMoniker": "Banking\\BankingSystem.cs",
+              "ToolTip": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\Banking\\BankingSystem.cs",
+              "RelativeToolTip": "Banking\\BankingSystem.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:26:09.051Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankingTest.cs",
+              "DocumentMoniker": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\BankingUnitTest\\BankingTest.cs",
+              "RelativeDocumentMoniker": "BankingUnitTest\\BankingTest.cs",
+              "ToolTip": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\BankingUnitTest\\BankingTest.cs",
+              "RelativeToolTip": "BankingUnitTest\\BankingTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:57:55.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBanking.cs",
+              "DocumentMoniker": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\Banking\\Interfaces\\IBanking.cs",
+              "RelativeDocumentMoniker": "Banking\\Interfaces\\IBanking.cs",
+              "ToolTip": "D:\\Dev\\Projects\\dotnet-technical-test\\Banking\\Banking\\Interfaces\\IBanking.cs",
+              "RelativeToolTip": "Banking\\Interfaces\\IBanking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T05:26:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
