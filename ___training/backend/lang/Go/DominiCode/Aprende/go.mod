@@ -1,3 +1,3 @@
-module type_conversion
+module array
 
 go 1.22.5
