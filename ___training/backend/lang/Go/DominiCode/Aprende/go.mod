@@ -1,3 +1,3 @@
-module return_multiple_values
+// module return_multiple_values
 
-go 1.22.5
+// go 1.22.5
